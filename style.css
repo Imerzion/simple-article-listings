@@ -9,7 +9,7 @@ body {
   max-width: 736px;
   width: 100%;
   font-family: "Poppins", sans-serif;
-  background-color: #f8fafc;
+  background-color: #fff;
 }
 
 .header--container {
@@ -75,12 +75,9 @@ body {
   text-decoration: none;
 }
 
-footer {
-  margin-top: 1.5rem;
-}
-
 @media screen and (max-width: 640px) {
   body {
     padding: 0 2rem;
   }
 }
+
